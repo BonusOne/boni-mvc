@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'HKGrotesk';
+    src: url('font/HKGrotesk-Regular-webfont.eot');
+	src: url('font/HKGrotesk-Regular-webfont.eot?iefix') format('eot'),
+	     url('font/HKGrotesk-Regular-webfont.woff') format('woff'),
+	     url('font/HKGrotesk-Regular-webfont.ttf') format('truetype'),
+	     url('font/HKGrotesk-Regular-webfont.svg#webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HKGrotesk';
+    src: url('font/HKGrotesk-Bold-webfont.eot');
+	src: url('font/HKGrotesk-Bold-webfont.eot?iefix') format('eot'),
+	     url('font/HKGrotesk-Bold-webfont.woff') format('woff'),
+	     url('font/HKGrotesk-Bold-webfont.ttf') format('truetype'),
+	     url('font/HKGrotesk-Bold-webfont.svg#webfont') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HKGrotesk';
+    src: url('font/HKGrotesk-Italic-webfont.eot');
+	src: url('font/HKGrotesk-Italic-webfont.eot?iefix') format('eot'),
+	     url('font/HKGrotesk-Italic-webfont.woff') format('woff'),
+	     url('font/HKGrotesk-Italic-webfont.ttf') format('truetype'),
+	     url('font/HKGrotesk-Italic-webfont.svg#webfont') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'HKGrotesk';
+    src: url('font/HKGrotesk-BoldItalic-webfont.eot');
+	src: url('font/HKGrotesk-BoldItalic-webfont.eot?iefix') format('eot'),
+	     url('font/HKGrotesk-BoldItalic-webfont.woff') format('woff'),
+	     url('font/HKGrotesk-BoldItalic-webfont.ttf') format('truetype'),
+	     url('font/HKGrotesk-BoldItalic-webfont.svg#webfont') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'HKGrotesk';
+    src: url('font/HKGrotesk-LightItalic-webfont.eot');
+	src: url('font/HKGrotesk-LightItalic-webfont.eot?iefix') format('eot'),
+	     url('font/HKGrotesk-LightItalic-webfont.woff') format('woff'),
+	     url('font/HKGrotesk-LightItalic-webfont.ttf') format('truetype'),
+	     url('font/HKGrotesk-LightItalic-webfont.svg#webfont') format('svg');
+    font-weight: lighter;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'HKGrotesk';
+    src: url('font/HKGrotesk-Light-webfont.eot');
+	src: url('font/HKGrotesk-Light-webfont.eot?iefix') format('eot'),
+	     url('font/HKGrotesk-Light-webfont.woff') format('woff'),
+	     url('font/HKGrotesk-Light-webfont.ttf') format('truetype'),
+	     url('font/HKGrotesk-Light-webfont.svg#webfont') format('svg');
+    font-weight: lighter;
+    font-style: normal;
+}
